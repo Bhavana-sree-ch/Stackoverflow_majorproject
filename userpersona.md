@@ -33,7 +33,7 @@
 
 
 
-# User Persona: Normal User of StackOverflow
+## **Persona: Normal User**
 
 **Name**: Bhavana   
 **Occupation**: Software Developer  
